@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[hawaiiheals]]></title>
         <description><![CDATA[hawaiiheals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hawaiiheals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 22:42:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 22:45:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hawaiiheals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/hawaiiheals/e1e5d4b7-88f7-4af3-a76b-2e12e95944a5/index.html</link>
+            <guid isPermaLink="false">e1e5d4b7-88f7-4af3-a76b-2e12e95944a5</guid>
+            <pubDate>Thu, 07 Jan 2016 22:44:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ac9d1d-b737-4e1a-8b78-56dbbd1b5471.jpg">]]></description>
-            <link>undefined69c41bc7-28a7-4f9d-87a1-32f3ec4052a6/index.html</link>
+            <link>https://thegrid.ai/hawaiiheals/69c41bc7-28a7-4f9d-87a1-32f3ec4052a6/index.html</link>
             <guid isPermaLink="false">69c41bc7-28a7-4f9d-87a1-32f3ec4052a6</guid>
             <pubDate>Thu, 07 Jan 2016 22:42:37 GMT</pubDate>
         </item>
